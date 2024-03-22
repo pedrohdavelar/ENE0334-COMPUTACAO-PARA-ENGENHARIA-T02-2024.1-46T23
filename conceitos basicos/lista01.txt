@@ -1,0 +1,171 @@
+1 - Categorize cada um dos seguintes itens como hardware ou software:
+
+	1. CPU
+		Hardware
+	2. Disco rígido
+		Hardware
+	3. Programa Word
+		Software
+	4. Instagram
+		Hardware
+	5. Teclado
+		Hardware
+
+2 - O que é software e qual sua importância?
+
+	Software é a sequência de comandos executados por um computador para a realização de uma determinada tarefa.
+	Sua importância é gigante visto que hoje somos quase totalmente dependentes de computadores como por exemplo
+	nas usinas de energia, em equipamentos hospitalares, gerenciamento de transito, todas essas atividades dependem
+	de computadores hoje.
+
+3 - Defina com suas próprias palavras o que é algoritmo.
+Um algorítmo consiste na quebra das etapas para a realização de uma atividade. Um exemplo clásico, a troca de uma lampada
+pode ser quebrada nas seguintes etapas:
+	1- desligue o interruptor
+	2- retire a lampada queimada
+	3- enrosque a lampada nova
+	4- ligue o interruptor
+
+
+4 - Cite exemplos de software usados na medicina, ciência no
+entretenimento que você conhece.
+
+	Medicina- Samsung Health, MyFitnessPal
+	Ciência - Wolfram Alpha, GROMACS, ORCA
+	Entretenimento - Xbox Gamepass, Netflix, Videogames em geral
+
+5 - Quais softwares deixa sua vida mais fácil? Quais deixam sua vida
+mais complicada?
+
+	Mais fácil - Google Maps, Samsung Calendar, Whatsapp, Microsoft Office
+	Mais complicada - Microsoft Teams, programas mal otimizados
+
+6 - Considere uma atividade de sua rotina diária. Como a computação
+está direta ou indiretamente envolvida?
+
+	A computação está diretamente envolvida no meu trabalho. Hoje estou empregado no Banco do Brasil e trabalho na Diretoria de Tecnologia 
+	primariamente com programação em Cobol. Para acordar uso o despertador do celular. Para ir ao trabalho e depois a aula uso o Google Maps para
+	ver qual o melhor trajeto. Indiretamente, o carro que dirijo muito provavelmente foi projetado em um computador. Os semáforos nas ruas do trajeto são controlados
+	por computadores.
+
+7 - A partir de sua experiência pessoal, descreva uma atividade que não
+seria possível sem computadores.
+
+	Sistema de posicionamento global (GPS). 
+
+8 - Faça uma Lista programas que você utiliza.
+	Microsoft Office
+	Notepad++
+	Adobe Photoshop/Lightroom
+	Davinci Resolve
+	VS Code
+	Eclipse
+	MPV
+	Qbittorrent
+	Chrome/Firefox/Edge/Safari
+	Samsung Notes
+	Steam
+	Github Desktop
+
+9 - Faça uma lista com dez atividades que não utilizam computadores de
+nenhuma maneira.
+
+	Atividades físicas (corrida, caminhada, musculação)
+	Agricultura Familiar
+	Primeiros Socorros
+	Jogos de Tabuleiro
+	Imaginar
+	Dormir
+	Caçar animais
+	Natação
+	Contar histórias
+	Sexo
+
+10 - Você acha que a inteligência artificial vai acabar com empregos na
+área da computação? Justifique.
+	Em diversos momentos da história houve a automação de atividades antes realizadas por humanos. Acredito que a I.A. irá reduzir
+	sim algumas posições de trabalho mas não acredito que ela irá acabar totalmente com os empregos na área da computação. A I.A. é
+	uma ferramenta e aqueles que não se adaptarem, não buscarem maneiras de incorporar suas funcionalidades irão sim ficar para trás.
+
+11 - Descreva a capacidade de seu computador em termos de
+processamento, memória e armazenamento.
+
+	A capacidade de processamento envolve a velocidade com a qual o processador consegue executar as instruções (frequência de operação) 
+	e a eficiência com a qual ele consegue executar instruções, isto é, dependendo da arquitetura, se ele consegue executar determinado cálculo com
+	mais ou menos operações.
+
+	A memória indica a quantidade de espaço disponível para armazenamento de informações. Programas geralmente são armazenados em um disco rígido ou um disco
+	de estado sólido. Ao executar um programa, suas instruções são alocadas na memória RAM para ter uma maior velocidade de acesso. O Processador possui
+	também um espaço reservado de cache para execução de operações ainda mais rápido. 
+
+12 - Descreva um algoritmo para resolver um cubo mágico.
+	método básico passo a passo para resolver o Cubo Mágico 3x3x3:
+
+	Preparar a Cruz Inicial (Passo 1):
+		O objetivo é posicionar 4 meios brancos ao redor do centro amarelo.
+		Assista a um vídeo ou tutorial para entender como o cubo funciona.
+		Mexa as peças sem medo de errar, pois nada está montado ainda.
+		Lembre-se de analisar antes de executar e faça tudo com calma.
+	Finalizar a Cruz (Passo 2):
+		Leve os meios brancos preparados no passo anterior para a base do cubo, ao redor do centro branco.
+		Isso finaliza a cruz inicial.
+		Primeira Camada (Passo 3):
+		Complete a primeira camada com os cantos brancos.
+	Segunda Camada (Passo 4):
+		Posicione os meios da segunda camada.
+	Cruz Amarela (Passo 5):
+		Prepare a cruz amarela no topo.
+	Face Amarela (Passo 6):
+		Complete a face amarela.
+	Finalizar as Quinas (Passo 7):
+		Posicione as quinas da última camada.
+	Finalizar os Meios (Passo 8):
+		Complete os meios da última camada.
+
+13 - Qual a diferença entre bit e byte?
+	O bit é a menor porção endereçável de uma informação. O byte é um conjunto de 8 bits
+
+14 - Como representar números reais usando sistema binário?
+	em um número binário, cada posição indica uma potencia de 2:
+
+	128 64 32 16  8  4  2  1
+      x  x  x  x  x  x  x  x   
+
+	decimal - binário
+	0         0
+	1         1
+	2         10
+	3         11
+	4         100
+	5         101
+	6         111  
+    128       10000000
+	255       11111111
+
+15 - Descreva os passos para converter o número decimal 150 para sua
+representação em binário.
+
+	150-128 = 22 bit 128 ativo
+	22-16 = 6    bit  16 ativo
+	6-4 = 2      bit   4 ativo
+	2-2 = 0      bit   2 ativo
+
+	128 64 32 16 8 4 2 1
+	1   0  0  1  0 1 1 0
+	10010110
+
+16 - Descreva o papel do scrum master, dono do produto e do time de
+desenvolvimento.
+
+	Scrum master - tem como objetivo promover o bom funcionamento da equipe de desenvolvimento para o atingimento do objetivo proposto pelo projeto.
+	Dono do produto - Responsável por gerenciar  as regra de negócios visando atender o desejo dos stakeholders. 
+	Time de desenvolvimento - responsável pela engenharia da solução que irá atender a demanda apresentada pelo dono do produto
+
+17 - Descreva os comandos para mover, copiar, e remover arquivos
+usando linha de comando no sistema operacional que você utiliza.
+	Windows - ctrl+c (cópia), ctrl+v (cola)
+	Linux - cp (cópia), mv (mover), rm (remover arquivos)
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth?
+	Wifi - IEEE 802.11
+	Bluetooth - 802.15.1
