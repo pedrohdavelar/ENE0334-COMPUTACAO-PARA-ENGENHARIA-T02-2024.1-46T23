@@ -1,7 +1,7 @@
 /*  
 Lista 4 - Exercício 2
 Autor: Pedro Henrique Dias Avelar
-Data: 12/04/2024
+Data: 25/04/2024
 */
 
 #include <iostream>
