@@ -170,13 +170,6 @@ void preenche_cartela (jogador_bingo& jogador){
 }
 
 void imprime_cartela (jogador_bingo& jogador, int n_sorteados[], int n_pedras){
-    //std::cout << "Jogador: " << jogador.nome_jogador << std::endl;
-    //std::cout << "Cartela:" << std::endl;
-    //std::cout << "|" << jogador.cartela[0][0] << "|" <<  jogador.cartela[0][1] << "|" << jogador.cartela[0][2] << "|" << jogador.cartela[0][3] << "|" << jogador.cartela[0][4] << "|" << std::endl;
-    //std::cout << "|" << jogador.cartela[1][0] << "|" <<  jogador.cartela[1][1] << "|" << jogador.cartela[1][2] << "|" << jogador.cartela[1][3] << "|" << jogador.cartela[1][4] << "|" << std::endl;
-    //std::cout << "|" << jogador.cartela[2][0] << "|" <<  jogador.cartela[2][1] << "|" << jogador.cartela[2][2] << "|" << jogador.cartela[2][3] << "|" << jogador.cartela[2][4] << "|" << std::endl;
-    //std::cout << "|" << jogador.cartela[3][0] << "|" <<  jogador.cartela[3][1] << "|" << jogador.cartela[3][2] << "|" << jogador.cartela[3][3] << "|" << jogador.cartela[3][4] << "|" << std::endl;
-    //std::cout << "|" << jogador.cartela[4][0] << "|" <<  jogador.cartela[4][1] << "|" << jogador.cartela[4][2] << "|" << jogador.cartela[4][3] << "|" << jogador.cartela[4][4] << "|" << std::endl;
 
     for (int i = 0; i < 5; i++){
         std::cout << "|";
